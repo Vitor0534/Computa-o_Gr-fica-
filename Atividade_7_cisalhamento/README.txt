@@ -1,0 +1,2 @@
+Autor: Vitor de Almeida Silva
+O código em anexo define um objeto casa em 2D. Altere o mesmo incrementando uma matriz de transformação cisalhamento, realizando algum efeito de cisalhamento (a sua escolha) a cada clique do mouse. 
