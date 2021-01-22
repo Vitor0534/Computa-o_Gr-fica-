@@ -1,3 +1,3 @@
 Autor: Vitor de Almeida Silva
 
-Curvas de bezie cridas no Geogebra
+Curvas de Bezier cridas no Geogebra
