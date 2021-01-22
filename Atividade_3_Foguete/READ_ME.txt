@@ -1,21 +1,19 @@
-/*
  Foguete 3D com Processing
  Alunos: Higor Alvez Ferreira;
          Lucas Macedo da Silva;
          Vitor de Almeida Silva;
          
          
-FunÁ„o: desenha_cilindro adapatada de Reas e Fry (2007)
+Fun√ß√£o: desenha_cilindro adapatada de Reas e Fry (2007)
   
-As operaÁıes de rotaÁ„o e escala foram implementadas baseando-se no ponteiro e no scrool do mouse
+As opera√ß√µes de rota√ß√£o e escala foram implementadas baseando-se no ponteiro e no scrool do mouse
       
-      RotaÁ„o: 
+      Rota√ß√£o: 
       *rotateX: utiliza o mapeamento do ponteiro do mouse para rotacionar no eixo x
       *rotateY: utiliza o mapeamento do ponteiro do mouse para rotacionar no eixo y
       
       Escala:
-      *mouseWheel(MouseEvent event): essa funÁ„o utiliza do objeto mouseEvent, que permite coletar informaÁıes do scrool
-                                     o scrool retonar (-1) giro para frente ou (1) giro para tr·z. esse valor È somado em uma
-                                     vari·vel a qual altera o valor do eixo z na funÁ„o translate, com isso o objeto se aproxima 
-                                     ou distancia da c‚mera.  
-*/
+      *mouseWheel(MouseEvent event): essa fun√ß√£o utiliza do objeto mouseEvent, que permite coletar informa√ß√µes do scrool
+                                     o scrool retonar (-1) giro para frente ou (1) giro para tr√°z. esse valor √© somado em uma
+                                     vari√°vel a qual altera o valor do eixo z na fun√ß√£o translate, com isso o objeto se aproxima 
+                                     ou distancia da c√¢mera.  
