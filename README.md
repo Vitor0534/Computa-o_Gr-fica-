@@ -1,7 +1,7 @@
 # Computação Gráfica
 
 
-- english:
+- English:
 
 the present repository contains the activities carried out in computer graphics studies. all codes were implemented using processing and cover all content, from drawing and animation, to calculations of transformation matrices applied to 2D and 3D objects.
 
